@@ -1,4 +1,4 @@
-# Parametric-distributions-for-martime-activities
+# Parametric-distributions-for-maritime-activities
 
 This repository contains the dataset used in a research study detailed in the conference paper titled "Fitting Empirical Distributions for Vessels Behavioral Analysis and Maritime Anomaly Detection".
 
